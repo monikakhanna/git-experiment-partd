@@ -14,5 +14,10 @@ public class TheMotivator {
     public static void main(String[] args) {
         TheMotivator tm = new TheMotivator();
         tm.feedback(60);
+        System.out.println("Good byye !!!");
     }
+    puplic void printScore(int score){
+        System.out.println("Score : " +score);
+    }
+
 }
