@@ -14,4 +14,8 @@ public class TheMotivator {
         tm.feedback(60);
         System.out.println("Good byye !!!");
     }
+    puplic void printScore(int score){
+        System.out.println("Score : " +score);
+    }
+
 }
