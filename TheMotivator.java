@@ -15,6 +15,7 @@ public class TheMotivator {
     }
     public static void main(String[] args) {
         TheMotivator tm = new TheMotivator();
+        System.out.println("Hello There !!!");
         tm.feedback(60);
         System.out.println("Good byye !!!");
     }
